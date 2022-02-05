@@ -24,12 +24,83 @@ This course examines politics and political economy in Britain, Germany, and two
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Class participation {{< br >}}{{< br >}} _This includes posing questions during lectures and coming to class prepared to discuss readings and video material_ {{< br >}}{{< br >}}  | 15% |
-| Three current events memos | 30% (10% each) |
-| Group project | 10% |
-|  {{< br >}}{{< br >}} Midterm {{< br >}}{{< br >}} _Covering all the material in the first half of the class_ {{< br >}}{{< br >}}  | 20% |
-|  {{< br >}}{{< br >}} Final exam {{< br >}}{{< br >}} _Covering all the material in the class, with emphasis on the second half_ {{< br >}}{{< br >}}  | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Class participation
+
+_This includes posing questions during lectures and coming to class prepared to discuss readings and video material_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three current events memos
+{{< tdclose >}}
+{{< tdopen >}}
+30% (10% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Midterm
+
+_Covering all the material in the first half of the class_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final exam
+
+_Covering all the material in the class, with emphasis on the second half_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
  For more information on the memos and the group project, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
