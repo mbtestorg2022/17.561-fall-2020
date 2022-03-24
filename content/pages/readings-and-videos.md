@@ -276,9 +276,9 @@ Gingrich, Jane, and Desmond King. “[Americanizing Brexit Britain’s Welfare S
 
 Kelly, Gavin, and Nick Pearce. “[Introduction: Brexit and the Future of the British Model of Democratic Capitalism](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-923X.12644).” _Political Quarterly_ 90, issue S2 (2019): 1–11.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Special Topic: Populism and Brexit.” (PDF - 2.5MB)](http://mattgolder.com/files/research/newsletter_fall2016.pdf) _Comparative Politics Newsletter_ 26, no. 2 (2016): 107–23.
+[“Special Topic: Populism and Brexit.” (PDF - 2.5MB)](http://mattgolder.com/files/research/newsletter_fall2016.pdf) _Comparative Politics Newsletter_ 26, no. 2 (2016): 107–23.
 
-Usherwood, Simon. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Shooting the Fox? UKIP’s Populism in the Post-Brexit Era.” (PDF - 1.4MB)](http://epubs.surrey.ac.uk/850714/1/Shooting%20the%20fox.pdf) _West European Politics_ 42, no. 6 (2019): 1209–29.
+Usherwood, Simon. [“Shooting the Fox? UKIP’s Populism in the Post-Brexit Era.” (PDF - 1.4MB)](http://epubs.surrey.ac.uk/850714/1/Shooting%20the%20fox.pdf) _West European Politics_ 42, no. 6 (2019): 1209–29.
 
 Barry, Ellen and Stephen Castle. “[Amid Parliament’s Brexit Rebellion, a Tectonic Shift in How Britain is Governed](https://www.nytimes.com/2019/01/15/world/europe/brexit-britain-parliament-theresa-may.html),” _New York Times_, January 15, 2019.
 
@@ -360,7 +360,7 @@ _Read_
 
 Wilson, Graham K. “The Past, Present and Future of Neocorporatism.” Chapter 5 in _Business and Politics: A Comparative Introduction_. 3rd ed. Palgrave, 2002. ISBN: 9780333962053. 
 
-Page, Rebecca. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Codetermination in Germany – A Beginners’ Guide. 5. überarbeitete Auflage.” (PDF - 1.5MB)](https://www.econstor.eu/bitstream/10419/116496/1/hbs_arbp_033.pdf) Arbeitspapier, No. 33. 2011. (Read pp. 10–25 only.)
+Page, Rebecca. [“Codetermination in Germany – A Beginners’ Guide. 5. überarbeitete Auflage.” (PDF - 1.5MB)](https://www.econstor.eu/bitstream/10419/116496/1/hbs_arbp_033.pdf) Arbeitspapier, No. 33. 2011. (Read pp. 10–25 only.)
 
 Bruegel, Bennet Berger, and Elena Vaccarino. “[Blog Post: Codetermination in Germany – A Role Model for the UK and the US?](https://www.bruegel.org/2016/10/codetermination-in-germany-a-role-model-for-the-uk-and-the-us/),” _Bruegel Newsletter_, October 13, 2016.
 
@@ -438,7 +438,7 @@ Einhorn, Eric S., and John Logue. “[Can Welfare States Be Sustained in a Globa
 
 Blanc-Noel, Nathalie. “[Resolving the Dilemma between Equality and Liberty: The Swedish Political System](https://www.researchgate.net/publication/258241619_Resolving_the_dilemma_between_equality_and_liberty_the_Swedish_political_system).” _Eastern Journal of European Studies_ 4, no. 1 (2013): 25_–_40.
 
-Rydgren, Jens, and Sara van der Meiden. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Radical Right and the End of Swedish Exceptionalism.” (PDF)](https://d-nb.info/1161725326/34) _European Political Science_ 18 (2019): 439–55.
+Rydgren, Jens, and Sara van der Meiden. [“The Radical Right and the End of Swedish Exceptionalism.” (PDF)](https://d-nb.info/1161725326/34) _European Political Science_ 18 (2019): 439–55.
 
 
 {{< tdclose >}}
@@ -480,7 +480,7 @@ Goodman, Peter S. “[The Robots Are Coming, and Sweden Is Fine](https://www.nyt
 
 Heyman, Fredrik, Pehr-Johan Norbäck, and Lars Persson. “[How Sweden Became More Entrepreneurial than the US](https://voxeu.org/article/how-sweden-became-more-entrepreneurial-us).” VoxEU. August 12, 2019.
 
-Thelen, Kathleen. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Transitions to the Knowledge Economy in Germany, Sweden, and the Netherlands.” (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/120560/thelen%20transitions%20to%20the%20knowledge%20economy.pdf?sequence=1&isAllowed=y) _Comparative Politics_ 51, no. 2 (2019): 295–315.
+Thelen, Kathleen. [“Transitions to the Knowledge Economy in Germany, Sweden, and the Netherlands.” (PDF)](https://dspace.mit.edu/bitstream/handle/1721.1/120560/thelen%20transitions%20to%20the%20knowledge%20economy.pdf?sequence=1&isAllowed=y) _Comparative Politics_ 51, no. 2 (2019): 295–315.
 
 
 {{< tdclose >}}
@@ -516,7 +516,7 @@ _Read_
 
 Daemmrich, Arthur, and Thomas Bredgaard. “The Welfare State as an Investment Strategy: Denmark’s Flexicurity Policies.” Chapter 7 in _The Oxford Handbook of Offshoring and Global Employment_. Edited by Ashok Bardhan, Dwight M. Jaffee, and Cynthia A. Kroll. Oxford University Press, 2013. ISBN: 9780199765904. 
 
-Farrell, Henry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Bernie Sanders Says Denmark Is Socialist. Forbes Magazine Says It’s the Most Business Friendly Country. Who’s Right?,” (PDF)](https://pure.mpg.de/rest/items/item_2228203_4/component/file_2228201/content) _Washington Post_, November 11, 2015.
+Farrell, Henry. [“Bernie Sanders Says Denmark Is Socialist. Forbes Magazine Says It’s the Most Business Friendly Country. Who’s Right?,” (PDF)](https://pure.mpg.de/rest/items/item_2228203_4/component/file_2228201/content) _Washington Post_, November 11, 2015.
 
 Two very different responses to COVID-19:
 
